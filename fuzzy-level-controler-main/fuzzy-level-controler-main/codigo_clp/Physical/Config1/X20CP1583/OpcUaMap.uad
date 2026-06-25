@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OpcUaSource Date="23/11/2023 14:38:26" Version="4.1.14.40 SP" FileVersion="1">
+  <DefaultView>
+    <Module>
+      <Variable Name="LIGA" Enable="True" />
+      <Variable Name="P" Enable="True" />
+      <Variable Name="pvAtual" Enable="True" />
+      <Variable Name="sp" Enable="True" />
+    </Module>
+  </DefaultView>
+</OpcUaSource>

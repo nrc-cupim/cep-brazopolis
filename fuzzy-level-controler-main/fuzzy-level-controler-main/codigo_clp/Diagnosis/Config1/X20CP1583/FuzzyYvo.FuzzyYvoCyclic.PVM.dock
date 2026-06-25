@@ -1,0 +1,20 @@
+WATCH Ver=2.00 PLCName=PLC1 CPUName=CPU TaskName=FuzzyYvo 
+Position X=0 Y=0 Width=0 Height=0 TabWidth Name=150 Type=0 Scope=0 Force=0 Index=15 ASCIIString=0
+                                    name                                     type force                                                            value level type len format place expand specs
+                              BOTAOVERDE                                     BOOL    0 "                                                               *"    0    1    1    2    1    0         
+                                    erro                                     REAL    0 "                                                       -118.0411"    0    8    1   10    1    0         
+                                    PA_F                                     REAL    0 "                                                       0.1413484"    0    8    1   10    1    0         
+                                   PMA_F                                     REAL    0 "                                                       0.8586516"    0    8    1   10    1    0         
+                                   PMB_F                                     REAL    0 "                                                             0.0"    0    8    1   10    1    0         
+                           BOTAOVERMELHO                                     BOOL    0 "                                                               *"    0    1    1    2    1    0         
+                                    PB_F                                     REAL    0 "                                                             0.0"    0    8    1   10    1    0         
+                                      sp                                     REAL    0 "                                                           120.0"    0    8    1   10    0    0         
+                                    PM_F                                     REAL    0 "                                                             0.0"    0    8    1   10    1    0         
+                                  tensao                                     REAL    0 "                                                       0.1538133"    0    8    1   10    1    0         
+                                       A                                     REAL    0 "                                                               *"    0    8    1   10    1    0         
+                                       Y                                      INT    3 "                                                               0"    0    3    1   10    1    0         
+                               deltaErro                                     REAL    0 "                                                      0.04538023"    0    8    1   10    1    0         
+                                     PNE                                     REAL    0 "                                                             0.0"    0    8    1   10    1    0         
+                                     ZEE                                     REAL    0 "                                                             0.0"    0    8    1   10    1    0         
+                                       P                                     REAL    0 "                                                        89.13989"    0    8    1   10    0    0         
+                                 pvAtual                                     REAL    0 "                                                        2.004315"    0    8    1   10    0    0         

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OpcUaConfig Date="10/06/2026 22:08:39" Version="4.1.14.40 SP" FileVersion="2">
+  <DefaultView>
+    <Module>
+      <GlobalVariables Name="Global PV">
+        <Variable Name="LIGA" />
+        <Variable Name="P" />
+        <Variable Name="pvAtual" />
+        <Variable Name="sp" />
+      </GlobalVariables>
+    </Module>
+  </DefaultView>
+</OpcUaConfig>

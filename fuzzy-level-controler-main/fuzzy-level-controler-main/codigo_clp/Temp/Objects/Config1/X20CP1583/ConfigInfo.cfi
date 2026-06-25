@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.1.14.40 SP"?>
+<ConfigInfo xmlns="http://br-automation.co.at/AS/BuildInfo">
+  <TaskClass
+    Name="Cyclic#1" />
+  <TaskClass
+    Name="Cyclic#2" />
+  <TaskClass
+    Name="Cyclic#3" />
+  <TaskClass
+    Name="Cyclic#4">
+    <Task
+      Name="MiguelProj"
+      Disable="false"
+      Source="MiguelProjetoFuzzy"
+      Language="IEC">
+      <InternalFile
+        Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Temp\Objects\Config1\X20CP1583\MiguelProj\MiguelProjetoFuzzy.st.var" />
+      <File
+        Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\MiguelProjetoFuzzy\MiguelProjetoFuzzy.typ" />
+      <File
+        Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\MiguelProjetoFuzzy\MiguelProjetoFuzzy.var" />
+    </Task>
+  </TaskClass>
+  <TaskClass
+    Name="Cyclic#5" />
+  <TaskClass
+    Name="Cyclic#6" />
+  <TaskClass
+    Name="Cyclic#7" />
+  <TaskClass
+    Name="Cyclic#8" />
+</ConfigInfo>

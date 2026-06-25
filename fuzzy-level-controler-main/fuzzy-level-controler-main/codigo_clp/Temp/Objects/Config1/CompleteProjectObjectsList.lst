@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.1.14.40 SP"?>
+<Objects>
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Package.pkg"
+    LogicalPath=""
+    Type="Package"
+    LastWriteTime="134249035664349307" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Global.typ"
+    LogicalPath="Global.typ"
+    Type="File"
+    LastWriteTime="134249035664192485"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Global.var"
+    LogicalPath="Global.var"
+    Type="File"
+    LastWriteTime="134249035664349307"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\Operator\operator.fun"
+    LogicalPath="Libraries.Operator.operator.fun"
+    Type="File"
+    LastWriteTime="134249035669548618"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\Operator\operator.typ"
+    LogicalPath="Libraries.Operator.operator.typ"
+    Type="File"
+    LastWriteTime="134249035669611443"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\Operator\operator.var"
+    LogicalPath="Libraries.Operator.operator.var"
+    Type="File"
+    LastWriteTime="134249035669706112"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\Operator\Binary.lby"
+    LogicalPath="Libraries.Operator"
+    Type="Library"
+    LastWriteTime="134249035669389586" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\Runtime\runtime.fun"
+    LogicalPath="Libraries.Runtime.runtime.fun"
+    Type="File"
+    LastWriteTime="134249035670496941"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\Runtime\runtime.typ"
+    LogicalPath="Libraries.Runtime.runtime.typ"
+    Type="File"
+    LastWriteTime="134249035670516474"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\Runtime\runtime.var"
+    LogicalPath="Libraries.Runtime.runtime.var"
+    Type="File"
+    LastWriteTime="134249035670653507"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\Runtime\Binary.lby"
+    LogicalPath="Libraries.Runtime"
+    Type="Library"
+    LastWriteTime="134249035670340346" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\AsTime\astime.fun"
+    LogicalPath="Libraries.AsTime.astime.fun"
+    Type="File"
+    LastWriteTime="134249035667335610"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\AsTime\astime.typ"
+    LogicalPath="Libraries.AsTime.astime.typ"
+    Type="File"
+    LastWriteTime="134249035667492835"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\AsTime\astime.var"
+    LogicalPath="Libraries.AsTime.astime.var"
+    Type="File"
+    LastWriteTime="134249035667611976"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\AsTime\Binary.lby"
+    LogicalPath="Libraries.AsTime"
+    Type="Library"
+    LastWriteTime="134249035667178904" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\AsIecCon\AsIecCon.fun"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.fun"
+    Type="File"
+    LastWriteTime="134249035664682389"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\AsIecCon\AsIecCon.typ"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.typ"
+    Type="File"
+    LastWriteTime="134249035664872331"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\AsIecCon\AsIecCon.var"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.var"
+    Type="File"
+    LastWriteTime="134249035664977799"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\AsIecCon\Binary.lby"
+    LogicalPath="Libraries.AsIecCon"
+    Type="Library"
+    LastWriteTime="134249035664977799" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\LoopConR\LoopConR.var"
+    LogicalPath="Libraries.LoopConR.LoopConR.var"
+    Type="File"
+    LastWriteTime="134249035665920649"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\LoopConR\LoopConR.typ"
+    LogicalPath="Libraries.LoopConR.LoopConR.typ"
+    Type="File"
+    LastWriteTime="134249035665920649"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\LoopConR\LoopConR.fun"
+    LogicalPath="Libraries.LoopConR.LoopConR.fun"
+    Type="File"
+    LastWriteTime="134249035665764234"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\LoopConR\Binary.lby"
+    LogicalPath="Libraries.LoopConR"
+    Type="Library"
+    LastWriteTime="134249035665764234" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\sys_lib\sys_lib.fun"
+    LogicalPath="Libraries.sys_lib.sys_lib.fun"
+    Type="File"
+    LastWriteTime="134249035672415282"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\sys_lib\sys_lib.typ"
+    LogicalPath="Libraries.sys_lib.sys_lib.typ"
+    Type="File"
+    LastWriteTime="134249035672415282"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\sys_lib\sys_lib.var"
+    LogicalPath="Libraries.sys_lib.sys_lib.var"
+    Type="File"
+    LastWriteTime="134249035672548632"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\sys_lib\Binary.lby"
+    LogicalPath="Libraries.sys_lib"
+    Type="Library"
+    LastWriteTime="134249035672344955" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\brsystem\brsystem.fun"
+    LogicalPath="Libraries.brsystem.brsystem.fun"
+    Type="File"
+    LastWriteTime="134249035668533654"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\brsystem\brsystem.typ"
+    LogicalPath="Libraries.brsystem.brsystem.typ"
+    Type="File"
+    LastWriteTime="134249035668677773"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\brsystem\brsystem.var"
+    LogicalPath="Libraries.brsystem.brsystem.var"
+    Type="File"
+    LastWriteTime="134249035668754060"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\brsystem\Binary.lby"
+    LogicalPath="Libraries.brsystem"
+    Type="Library"
+    LastWriteTime="134249035668436003" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\standard\standard.fun"
+    LogicalPath="Libraries.standard.standard.fun"
+    Type="File"
+    LastWriteTime="134249035671445266"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\standard\standard.typ"
+    LogicalPath="Libraries.standard.standard.typ"
+    Type="File"
+    LastWriteTime="134249035671542466"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\standard\standard.var"
+    LogicalPath="Libraries.standard.standard.var"
+    Type="File"
+    LastWriteTime="134249035671612566"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\standard\Binary.lby"
+    LogicalPath="Libraries.standard"
+    Type="Library"
+    LastWriteTime="134249035671288023" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\Package.pkg"
+    LogicalPath="Libraries"
+    Type="Package"
+    LastWriteTime="134249035664609368" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\MiguelProjetoFuzzy\MiguelProjetoFuzzy.st"
+    LogicalPath="MiguelProjetoFuzzy.MiguelProjetoFuzzy.st"
+    Type="File"
+    LastWriteTime="134249035673368928"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\MiguelProjetoFuzzy\MiguelProjetoFuzzy.typ"
+    LogicalPath="MiguelProjetoFuzzy.MiguelProjetoFuzzy.typ"
+    Type="File"
+    LastWriteTime="134249035673368928"
+    Private="true" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\MiguelProjetoFuzzy\MiguelProjetoFuzzy.var"
+    LogicalPath="MiguelProjetoFuzzy.MiguelProjetoFuzzy.var"
+    Type="File"
+    LastWriteTime="134249035673494757"
+    Private="true" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\MiguelProjetoFuzzy\IEC.prg"
+    LogicalPath="MiguelProjetoFuzzy"
+    Type="Program"
+    LastWriteTime="134249035673308167" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Physical\Config1\Config.pkg"
+    LogicalPath="Config1"
+    Type="Configuration"
+    LastWriteTime="134249035673808461" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Physical\Config1\Hardware.hw"
+    LogicalPath="Config1.Hardware.hw"
+    Type="File"
+    LastWriteTime="134249035673808461"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Physical\Config1\Hardware.hwl"
+    LogicalPath="Config1.Hardware.hwl"
+    Type="File"
+    LastWriteTime="134249035673966063"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Physical\Config1\X20CP1583\Cpu.sw"
+    LogicalPath="Config1.X20CP1583.Cpu.sw"
+    Type="File"
+    LastWriteTime="134249035674435593"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Physical\Config1\X20CP1583\Cpu.per"
+    LogicalPath="Config1.X20CP1583.Cpu.per"
+    Type="File"
+    LastWriteTime="134249035674122543"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Physical\Config1\X20CP1583\IoMap.iom"
+    LogicalPath="Config1.X20CP1583.IoMap.iom"
+    Type="File"
+    LastWriteTime="134249035674435593"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Physical\Config1\X20CP1583\PvMap.vvm"
+    LogicalPath="Config1.X20CP1583.PvMap.vvm"
+    Type="File"
+    LastWriteTime="134249035674617500"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Physical\Config1\X20CP1583\OpcUaMap.uad"
+    LogicalPath="Config1.X20CP1583.OpcUaMap.uad"
+    Type="File"
+    LastWriteTime="134249035674592417"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Physical\Config1\X20CP1583\Cpu.pkg"
+    LogicalPath="Config1.X20CP1583"
+    Type="Cpu"
+    LastWriteTime="134249035674279168" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Physical\Config1\Hardware.jpg"
+    LogicalPath="Config1.Hardware.jpg"
+    Type="File"
+    LastWriteTime="134249035674046784"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\AsIecCon\SG4\AsIecCon.h"
+    LogicalPath="AsIecCon.h"
+    Type="File"
+    LastWriteTime="134249035665369638"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\AsTime\SG4\AsTime.h"
+    LogicalPath="AsTime.h"
+    Type="File"
+    LastWriteTime="134249035667966066"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\brsystem\SG4\brsystem.h"
+    LogicalPath="brsystem.h"
+    Type="File"
+    LastWriteTime="134249035669071954"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\LoopConR\SG4\LoopConR.h"
+    LogicalPath="LoopConR.h"
+    Type="File"
+    LastWriteTime="134249035666508584"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\Operator\SG4\Operator.h"
+    LogicalPath="Operator.h"
+    Type="File"
+    LastWriteTime="134249035670022793"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\Runtime\SG4\Runtime.h"
+    LogicalPath="Runtime.h"
+    Type="File"
+    LastWriteTime="134249035670972479"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\standard\SG4\standard.h"
+    LogicalPath="standard.h"
+    Type="File"
+    LastWriteTime="134249035671921057"
+    Private="false" />
+  <Object
+    Path="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\Libraries\sys_lib\SG4\sys_lib.h"
+    LogicalPath="sys_lib.h"
+    Type="File"
+    LastWriteTime="134249035672887700"
+    Private="false" />
+</Objects>

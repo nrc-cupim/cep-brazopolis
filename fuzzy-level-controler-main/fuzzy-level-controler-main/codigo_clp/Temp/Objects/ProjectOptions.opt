@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.1.14.40 SP"?>
+<ProjectOptions
+  IecNamingConventions="true"
+  IecKeywordsAsStructureMembers="false"
+  IecExtendedConstants="true"
+  LogicalDirectory="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Logical\"
+  TempDirectory="C:\Users\miguel.abdala\Downloads\fuzzy-level-controler-main\fuzzy-level-controler-main\codigo_clp\Temp\"
+  AutomationStudioVersion="4.1.14.40 SP"
+  AutomationStudioEdition="Standard"
+  CrossReference="false"
+  ActiveConfiguration="Config1"
+  CreateAnsiCDeclarations="false" />

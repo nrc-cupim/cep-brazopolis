@@ -1,0 +1,40 @@
+(********************************************************************
+ * COPYRIGHT --  
+ ********************************************************************
+ * Program: MiguelProjetoFuzzy
+ * File: MiguelProjetoFuzzy.var
+ * Author: supervisorio
+ * Created: November 30, 2023
+ ********************************************************************
+ * Local variables of program MiguelProjetoFuzzy
+ ********************************************************************)
+VAR
+	tensao : REAL;
+	X : INT;
+	pvAtualSemFiltro : REAL;
+	erro : REAL;
+	deltaErro : REAL;
+	pvAnterior : REAL;
+	MNE : REAL;
+	PNE : REAL;
+	ZEE : REAL;
+	PPE : REAL;
+	MPE : REAL;
+	MNDE : REAL;
+	PNDE : REAL;
+	ZEDE : REAL;
+	PPDE : REAL;
+	MPDE : REAL;
+	PMB_F : REAL;
+	PB_F : REAL;
+	PM_F : REAL;
+	PA_F : REAL;
+	PMA_F : REAL;
+	HABILITA_TRACE : BOOL;
+	Y : INT;
+	filtro : LCRMovAvgFlt;
+	botaoVerde : BOOL;
+	contador : REAL;
+	botaoVermelho : BOOL;
+	chave : BOOL;
+END_VAR

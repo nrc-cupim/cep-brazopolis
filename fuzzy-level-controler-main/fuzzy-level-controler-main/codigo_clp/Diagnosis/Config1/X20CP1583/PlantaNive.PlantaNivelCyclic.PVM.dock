@@ -1,0 +1,6 @@
+WATCH Ver=2.00 PLCName=PLC1 CPUName=CPU TaskName=PlantaNive 
+Position X=0 Y=0 Width=0 Height=0 TabWidth Name=150 Type=0 Scope=0 Force=0 Index=0 ASCIIString=0
+                                    name                                     type force                                                            value level type len format place expand specs
+                                   ALPHA                                     REAL    0 "                                                      0.01384016"    0    8    1   10    1    0         
+                                       X                                      INT    1 "                                                               2"    0    3    1   10    1    0         
+                          NIVEL_FILTRADO                                     REAL    0 "                                                      0.02802632"    0    8    1   10    1    0         

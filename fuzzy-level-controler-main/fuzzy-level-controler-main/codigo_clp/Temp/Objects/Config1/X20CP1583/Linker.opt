@@ -1,0 +1,1 @@
+MiguelProj	"$(AS_CPU_PATH)/MiguelProj/MiguelProjetoFuzzy.st.o"  -o "$(AS_CPU_PATH)/MiguelProj/a.out"  -G V4.1.2  -T SG4  -M IA32  -specs=I386specs -Wl,-q,-T,bur_elf_i386.x -nostdlib

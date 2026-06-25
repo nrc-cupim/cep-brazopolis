@@ -1,0 +1,1 @@
+MiguelProj	"$(AS_CPU_PATH)/MiguelProj/a.out" -o "$(AS_CPU_PATH)/MiguelProj/MiguelProj.ox" -T SG4 -r Cyclic4   -G V4.1.2 
